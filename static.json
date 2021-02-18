@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "rick_sanchez",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
